@@ -1,0 +1,2 @@
+# foundation
+Django sample project
